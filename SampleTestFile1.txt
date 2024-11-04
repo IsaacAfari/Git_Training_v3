@@ -1,3 +1,5 @@
+GIT revert commit 1
+
 This is sample file one
 
 Testing reset commit one 
