@@ -6,3 +6,4 @@ GIT revert commit 2
 This is a sample commit 2
 
 I think this is the first one rather
+This is comparison lecture, from the lecturer
